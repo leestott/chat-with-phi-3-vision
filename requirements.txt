@@ -9,3 +9,4 @@ torch
 torchvision
 transformers
 flash_attn
+uvloop
